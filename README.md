@@ -1,9 +1,11 @@
 # Important Notice
-I made a more general purpose notifier for all eventbrite change at
+I made a more general purpose notifier for all eventbrite changes at
 
 https://github.com/paulshi/EventbriteEventChangeNotifier
 
-# Disrupt Hackathon Ticket Announcer
+thus this project is no longer maintained.
+
+#Techcrunch Disrupt Hackathon Ticket Availability Notifier
 Get the latest openings on disrupt hackathon SF 2013 ticket and notifies you on SMS. 
 
 This is the ```modified``` attribute in the Eventbrite API
